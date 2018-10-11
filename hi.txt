@@ -2,3 +2,4 @@ This is a simple example
 Second line in the file "hi"
 Third line
 Fourth line is added
+Fifth line is added
